@@ -1,0 +1,35 @@
+*{
+    font-family: cursive;
+    color: white;
+    font-weight: bolder;
+    background-color: #081765;
+}
+.table{
+    margin-top: 12px;
+    margin-left: 40%;
+}
+.dropdown{
+    padding: 18px;
+}
+.table th{
+    padding: 15px;
+}
+.container form input{
+    padding: 12px;
+    border: 1px solid white;
+    text-align: center;
+    margin-right: 1%;
+    color: white;
+}
+.container form button{
+    padding: 12px;
+}
+.container form button:hover{
+    background-color: white;
+    color: #081765;
+}
+.container form{
+    display: grid;
+    width: max-content;
+    margin: auto;
+}
